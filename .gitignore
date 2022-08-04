@@ -24,5 +24,6 @@ hs_err_pid*
 
 # Compile/Settings
 /target
+/out
 /.idea
 *.iml
